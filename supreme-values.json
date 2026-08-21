@@ -1,6 +1,6 @@
 {
   "source": "https://supremevalues.com",
-  "fetchedAt": "2026-08-19T22:18:10.274985+00:00",
+  "fetchedAt": "2026-08-21T09:47:04.290938+00:00",
   "itemCount": 1383,
   "byCategory": {
     "uniques": 97,
@@ -1910,18 +1910,18 @@
     {
       "name": "Vampire's Axe",
       "category": "ancients",
-      "value": "1,400",
-      "rawValue": 1400,
-      "range": "1,400 - 1,450",
-      "stability": "Doing Well",
+      "value": "1,450",
+      "rawValue": 1450,
+      "range": "1,450 - 1,550",
+      "stability": "Overpaid For",
       "demand": "6",
       "rarity": "4",
       "origin": "Halloween 2024 (Tier 20)",
       "aliases": "Vamp Axe, VA",
       "class": null,
       "imageKey": "mm2ancients/Vampires_Axe",
-      "diff": "+75",
-      "pctChange": "+5.7%"
+      "diff": "+50",
+      "pctChange": "+3.6%"
     },
     {
       "name": "America",
@@ -2118,9 +2118,9 @@
     {
       "name": "Chroma Beachy",
       "category": "chromas",
-      "value": "1,450",
-      "rawValue": 1450,
-      "range": "1,300 - 1,450",
+      "value": "1,400",
+      "rawValue": 1400,
+      "range": "1,250 - 1,400",
       "stability": "Underpaid For",
       "demand": "5",
       "rarity": "4",
@@ -2128,15 +2128,15 @@
       "aliases": "CBeachy, CBeach",
       "class": null,
       "imageKey": "mm2chromas/CBeachy",
-      "diff": "-200",
-      "pctChange": "-12.1%"
+      "diff": "-50",
+      "pctChange": "-3.4%"
     },
     {
       "name": "Chroma Blizzard",
       "category": "chromas",
-      "value": "6,500",
-      "rawValue": 6500,
-      "range": "6,000 - 6,500",
+      "value": "6,000",
+      "rawValue": 6000,
+      "range": "5,500 - 6,000",
       "stability": "Underpaid For",
       "demand": "5",
       "rarity": "5",
@@ -2145,7 +2145,7 @@
       "class": null,
       "imageKey": "mm2chromas/CBZ",
       "diff": "-500",
-      "pctChange": "-7.1%"
+      "pctChange": "-7.7%"
     },
     {
       "name": "Chroma Boneblade",
@@ -2182,10 +2182,10 @@
     {
       "name": "Chroma Constellation",
       "category": "chromas",
-      "value": "27,500",
-      "rawValue": 27500,
-      "range": null,
-      "stability": "Stable",
+      "value": "28,000",
+      "rawValue": 28000,
+      "range": "28,000 - 29,000",
+      "stability": "Doing Well",
       "demand": "7",
       "rarity": "6",
       "origin": "Christmas 2024 (Unboxed)",
@@ -2193,7 +2193,7 @@
       "class": null,
       "imageKey": "mm2chromas/CConst",
       "diff": "+500",
-      "pctChange": "+1.9%"
+      "pctChange": "+1.8%"
     },
     {
       "name": "Chroma Cookiecane",
@@ -2486,9 +2486,9 @@
     {
       "name": "Chroma Icecream",
       "category": "chromas",
-      "value": "1,600",
-      "rawValue": 1600,
-      "range": "1,400 - 1,600",
+      "value": "1,450",
+      "rawValue": 1450,
+      "range": "1,300 - 1,450",
       "stability": "Underpaid For",
       "demand": "5",
       "rarity": "4",
@@ -2496,8 +2496,8 @@
       "aliases": "CIC, CCream, CIcecream",
       "class": null,
       "imageKey": "mm2chromas/CIcecream",
-      "diff": "-200",
-      "pctChange": "-11.1%"
+      "diff": "-150",
+      "pctChange": "-9.4%"
     },
     {
       "name": "Chroma Laser",
@@ -2582,9 +2582,9 @@
     {
       "name": "Chroma Sands",
       "category": "chromas",
-      "value": "1,550",
-      "rawValue": 1550,
-      "range": "1,400 - 1,550",
+      "value": "1,450",
+      "rawValue": 1450,
+      "range": "1,300 - 1,450",
       "stability": "Underpaid For",
       "demand": "5",
       "rarity": "4",
@@ -2592,8 +2592,8 @@
       "aliases": "CSands, CSand",
       "class": null,
       "imageKey": "mm2chromas/CSands",
-      "diff": "-200",
-      "pctChange": "-11.4%"
+      "diff": "-100",
+      "pctChange": "-6.5%"
     },
     {
       "name": "Chroma Saw",
@@ -2662,8 +2662,8 @@
     {
       "name": "Chroma Snow Dagger",
       "category": "chromas",
-      "value": "3,000",
-      "rawValue": 3000,
+      "value": "2,750",
+      "rawValue": 2750,
       "range": null,
       "stability": "Stable",
       "demand": "5",
@@ -2673,7 +2673,7 @@
       "class": null,
       "imageKey": "mm2chromas/CDagger",
       "diff": "-250",
-      "pctChange": "-7.7%"
+      "pctChange": "-8.3%"
     },
     {
       "name": "Chroma Snowcannon",
@@ -2742,8 +2742,8 @@
     {
       "name": "Chroma Sweet",
       "category": "chromas",
-      "value": "2,100",
-      "rawValue": 2100,
+      "value": "2,050",
+      "rawValue": 2050,
       "range": null,
       "stability": "Stable",
       "demand": "5",
@@ -2753,7 +2753,7 @@
       "class": null,
       "imageKey": "mm2chromas/CSweet",
       "diff": "-50",
-      "pctChange": "-2.3%"
+      "pctChange": "-2.4%"
     },
     {
       "name": "Chroma Swirly Gun",
@@ -2806,9 +2806,9 @@
     {
       "name": "Chroma Treat",
       "category": "chromas",
-      "value": "2,250",
-      "rawValue": 2250,
-      "range": "2,150 - 2,250",
+      "value": "2,200",
+      "rawValue": 2200,
+      "range": "2,150 - 2,200",
       "stability": "Receding",
       "demand": "5",
       "rarity": "4",
@@ -2854,9 +2854,9 @@
     {
       "name": "Alienbeam",
       "category": "godlies",
-      "value": "2,350",
-      "rawValue": 2350,
-      "range": "2,350 - 2,550",
+      "value": "2,500",
+      "rawValue": 2500,
+      "range": "2,500 - 2,750",
       "stability": "Overpaid For",
       "demand": "6",
       "rarity": "4",
@@ -2864,8 +2864,8 @@
       "aliases": "AB, ALB",
       "class": null,
       "imageKey": "mm2godlies/Alienbeam",
-      "diff": "+250",
-      "pctChange": "+11.9%"
+      "diff": "+150",
+      "pctChange": "+6.4%"
     },
     {
       "name": "Amerilaser",
@@ -2982,9 +2982,9 @@
     {
       "name": "Beachy",
       "category": "godlies",
-      "value": "130",
-      "rawValue": 130,
-      "range": "120 - 130",
+      "value": "120",
+      "rawValue": 120,
+      "range": "110 - 120",
       "stability": "Underpaid For",
       "demand": "2",
       "rarity": "3",
@@ -2992,8 +2992,8 @@
       "aliases": "N/A",
       "class": null,
       "imageKey": "mm2godlies/Beachy",
-      "diff": "-5",
-      "pctChange": "-3.7%"
+      "diff": "-10",
+      "pctChange": "-7.7%"
     },
     {
       "name": "Bioblade",
@@ -3446,8 +3446,8 @@
     {
       "name": "Evergreen",
       "category": "godlies",
-      "value": "2,550",
-      "rawValue": 2550,
+      "value": "2,600",
+      "rawValue": 2600,
       "range": null,
       "stability": "Stable",
       "demand": "5",
@@ -3862,9 +3862,9 @@
     {
       "name": "Icecream",
       "category": "godlies",
-      "value": "120",
-      "rawValue": 120,
-      "range": "110 - 120",
+      "value": "110",
+      "rawValue": 110,
+      "range": "90 - 110",
       "stability": "Underpaid For",
       "demand": "2",
       "rarity": "3",
@@ -3873,7 +3873,7 @@
       "class": null,
       "imageKey": "mm2godlies/Icecream",
       "diff": "-10",
-      "pctChange": "-7.7%"
+      "pctChange": "-8.3%"
     },
     {
       "name": "Iceflake",
@@ -3942,9 +3942,9 @@
     {
       "name": "Luger",
       "category": "godlies",
-      "value": "35",
-      "rawValue": 35,
-      "range": "30 - 35",
+      "value": "32",
+      "rawValue": 32,
+      "range": "28 - 32",
       "stability": "Underpaid For",
       "demand": "1",
       "rarity": "2",
@@ -3952,8 +3952,8 @@
       "aliases": "Lug",
       "class": null,
       "imageKey": "mm2godlies/Luger",
-      "diff": "-2",
-      "pctChange": "-5.4%"
+      "diff": "-3",
+      "pctChange": "-8.6%"
     },
     {
       "name": "Lugercane",
@@ -4102,9 +4102,9 @@
     {
       "name": "Ornament",
       "category": "godlies",
-      "value": "38",
-      "rawValue": 38,
-      "range": "38 - 43",
+      "value": "40",
+      "rawValue": 40,
+      "range": "40 - 50",
       "stability": "Doing Well",
       "demand": "2",
       "rarity": "2",
@@ -4112,8 +4112,8 @@
       "aliases": "Orn",
       "class": null,
       "imageKey": "mm2godlies/Ornament",
-      "diff": "+3",
-      "pctChange": "+8.6%"
+      "diff": "+2",
+      "pctChange": "+5.3%"
     },
     {
       "name": "Pearl",
@@ -4310,9 +4310,9 @@
     {
       "name": "Raygun",
       "category": "godlies",
-      "value": "1,900",
-      "rawValue": 1900,
-      "range": "1,900 - 2,000",
+      "value": "2,000",
+      "rawValue": 2000,
+      "range": "2,000 - 2,100",
       "stability": "Overpaid For",
       "demand": "6",
       "rarity": "3",
@@ -4321,7 +4321,7 @@
       "class": null,
       "imageKey": "mm2godlies/Raygun",
       "diff": "+100",
-      "pctChange": "+5.6%"
+      "pctChange": "+5.3%"
     },
     {
       "name": "Red Luger",
@@ -4374,9 +4374,9 @@
     {
       "name": "Sands",
       "category": "godlies",
-      "value": "130",
-      "rawValue": 130,
-      "range": "120 - 130",
+      "value": "120",
+      "rawValue": 120,
+      "range": "110 - 120",
       "stability": "Underpaid For",
       "demand": "2",
       "rarity": "3",
@@ -4384,8 +4384,8 @@
       "aliases": "N/A",
       "class": null,
       "imageKey": "mm2godlies/Sands",
-      "diff": "-5",
-      "pctChange": "-3.7%"
+      "diff": "-10",
+      "pctChange": "-7.7%"
     },
     {
       "name": "Saw",
@@ -4454,8 +4454,8 @@
     {
       "name": "Snow Dagger",
       "category": "godlies",
-      "value": "250",
-      "rawValue": 250,
+      "value": "245",
+      "rawValue": 245,
       "range": null,
       "stability": "Stable",
       "demand": "3",
@@ -4790,8 +4790,8 @@
     {
       "name": "Watergun",
       "category": "godlies",
-      "value": "250",
-      "rawValue": 250,
+      "value": "245",
+      "rawValue": 245,
       "range": null,
       "stability": "Stable",
       "demand": "3",
@@ -4800,8 +4800,8 @@
       "aliases": "WTG",
       "class": null,
       "imageKey": "mm2godlies/Watergun",
-      "diff": "-10",
-      "pctChange": "-3.8%"
+      "diff": "-5",
+      "pctChange": "-2.0%"
     },
     {
       "name": "Waves",
@@ -4838,34 +4838,34 @@
     {
       "name": "Xenoknife",
       "category": "godlies",
-      "value": "295",
-      "rawValue": 295,
-      "range": null,
-      "stability": "Stable",
+      "value": "300",
+      "rawValue": 300,
+      "range": "300 - 310",
+      "stability": "Doing Well",
       "demand": "5",
       "rarity": "3",
       "origin": "Halloween 2025 (Item Pack)",
       "aliases": "N/A",
       "class": null,
       "imageKey": "mm2godlies/Xenoknife",
-      "diff": "+10",
-      "pctChange": "+3.5%"
+      "diff": "+5",
+      "pctChange": "+1.7%"
     },
     {
       "name": "Xenoshot",
       "category": "godlies",
-      "value": "295",
-      "rawValue": 295,
-      "range": null,
-      "stability": "Stable",
+      "value": "300",
+      "rawValue": 300,
+      "range": "300 - 310",
+      "stability": "Doing Well",
       "demand": "5",
       "rarity": "3",
       "origin": "Halloween 2025 (Item Pack)",
       "aliases": "N/A",
       "class": null,
       "imageKey": "mm2godlies/Xenoshot",
-      "diff": "+10",
-      "pctChange": "+3.5%"
+      "diff": "+5",
+      "pctChange": "+1.7%"
     },
     {
       "name": "Xmas",
@@ -6470,9 +6470,9 @@
     {
       "name": "Dungeon",
       "category": "rares",
-      "value": "185",
-      "rawValue": 185,
-      "range": "175 - 185",
+      "value": "180",
+      "rawValue": 180,
+      "range": "170 - 180",
       "stability": "Receding",
       "demand": "3",
       "rarity": "5",
@@ -6481,7 +6481,7 @@
       "class": null,
       "imageKey": "mm2rares/Dungeon",
       "diff": "-5",
-      "pctChange": "-2.6%"
+      "pctChange": "-2.7%"
     },
     {
       "name": "Floral (Gun)",
@@ -16646,9 +16646,9 @@
     {
       "name": "Alien Set",
       "category": "sets",
-      "value": "4,250",
-      "rawValue": 4250,
-      "range": "4,250 - 4,550",
+      "value": "4,500",
+      "rawValue": 4500,
+      "range": "4,500 - 4,850",
       "stability": "Overpaid For",
       "demand": "6",
       "rarity": "4",
@@ -16656,8 +16656,8 @@
       "aliases": "N/A",
       "class": null,
       "imageKey": "mm2godlies/Alienbeam",
-      "diff": "+350",
-      "pctChange": "+9.0%"
+      "diff": "+250",
+      "pctChange": "+5.9%"
     },
     {
       "name": "Aurora Set (Legend.)",
@@ -16726,9 +16726,9 @@
     {
       "name": "Bauble Set",
       "category": "sets",
-      "value": "863",
-      "rawValue": 863,
-      "range": "863 - 868",
+      "value": "865",
+      "rawValue": 865,
+      "range": "865 - 875",
       "stability": "Doing Well",
       "demand": "5",
       "rarity": "4",
@@ -16736,15 +16736,15 @@
       "aliases": "Ornament Set, Orn Set",
       "class": null,
       "imageKey": "mm2godlies/Bauble",
-      "diff": "+3",
-      "pctChange": "+0.3%"
+      "diff": "+2",
+      "pctChange": "+0.2%"
     },
     {
       "name": "Beach Set",
       "category": "sets",
-      "value": "260",
-      "rawValue": 260,
-      "range": "240 - 260",
+      "value": "240",
+      "rawValue": 240,
+      "range": "220 - 240",
       "stability": "Underpaid For",
       "demand": "2",
       "rarity": "3",
@@ -16752,8 +16752,8 @@
       "aliases": "N/A",
       "class": null,
       "imageKey": "mm2godlies/Beachy",
-      "diff": "-10",
-      "pctChange": "-3.7%"
+      "diff": "-20",
+      "pctChange": "-7.7%"
     },
     {
       "name": "Blizzard Set",
@@ -16934,9 +16934,9 @@
     {
       "name": "Chroma Beach Set",
       "category": "sets",
-      "value": "3,000",
-      "rawValue": 3000,
-      "range": "2,700 - 3,000",
+      "value": "2,850",
+      "rawValue": 2850,
+      "range": "2,550 - 2,850",
       "stability": "Underpaid For",
       "demand": "5",
       "rarity": "4",
@@ -16944,15 +16944,15 @@
       "aliases": "CBeach Set",
       "class": null,
       "imageKey": "mm2chromas/CBeachy",
-      "diff": "-400",
-      "pctChange": "-11.8%"
+      "diff": "-150",
+      "pctChange": "-5.0%"
     },
     {
       "name": "Chroma Blizzard Set",
       "category": "sets",
-      "value": "10,750",
-      "rawValue": 10750,
-      "range": "10,250 - 10,750",
+      "value": "10,250",
+      "rawValue": 10250,
+      "range": "9,750 - 10,250",
       "stability": "Underpaid For",
       "demand": "5",
       "rarity": "5",
@@ -16961,7 +16961,7 @@
       "class": null,
       "imageKey": "mm2chromas/CBZ",
       "diff": "-500",
-      "pctChange": "-4.4%"
+      "pctChange": "-4.7%"
     },
     {
       "name": "Chroma Bringer Set",
@@ -17030,8 +17030,8 @@
     {
       "name": "Chroma Snow Set",
       "category": "sets",
-      "value": "10,750",
-      "rawValue": 10750,
+      "value": "10,500",
+      "rawValue": 10500,
       "range": null,
       "stability": "Stable",
       "demand": "5",
@@ -17062,9 +17062,9 @@
     {
       "name": "Chroma Sweet Set",
       "category": "sets",
-      "value": "4,350",
-      "rawValue": 4350,
-      "range": "4,250 - 4,350",
+      "value": "4,250",
+      "rawValue": 4250,
+      "range": "4,200 - 4,250",
       "stability": "Receding",
       "demand": "5",
       "rarity": "4",
@@ -17073,7 +17073,7 @@
       "class": null,
       "imageKey": "mm2chromas/CTreat",
       "diff": "-100",
-      "pctChange": "-2.2%"
+      "pctChange": "-2.3%"
     },
     {
       "name": "Chroma Weapon Set",
@@ -17126,9 +17126,9 @@
     {
       "name": "Corrupt Set",
       "category": "sets",
-      "value": "435",
-      "rawValue": 435,
-      "range": "430 - 435",
+      "value": "432",
+      "rawValue": 432,
+      "range": "428 - 432",
       "stability": "Underpaid For",
       "demand": "4",
       "rarity": "3",
@@ -17136,8 +17136,8 @@
       "aliases": "N/A",
       "class": null,
       "imageKey": "mm2uniques/Corrupt",
-      "diff": "-12",
-      "pctChange": "-2.7%"
+      "diff": "-3",
+      "pctChange": "-0.7%"
     },
     {
       "name": "Dark Set",
@@ -17222,8 +17222,8 @@
     {
       "name": "Ever Set",
       "category": "sets",
-      "value": "6,000",
-      "rawValue": 6000,
+      "value": "6,050",
+      "rawValue": 6050,
       "range": null,
       "stability": "Stable",
       "demand": "5",
@@ -17382,9 +17382,9 @@
     {
       "name": "Full Luger Set",
       "category": "sets",
-      "value": "175",
-      "rawValue": 175,
-      "range": "170 - 175",
+      "value": "172",
+      "rawValue": 172,
+      "range": "168 - 172",
       "stability": "Underpaid For",
       "demand": "1",
       "rarity": "2",
@@ -17392,8 +17392,8 @@
       "aliases": "Full Lug Set",
       "class": null,
       "imageKey": "mm2chromas/CLuger",
-      "diff": "-2",
-      "pctChange": "-1.1%"
+      "diff": "-3",
+      "pctChange": "-1.7%"
     },
     {
       "name": "Full Swirly Set",
@@ -17622,9 +17622,9 @@
     {
       "name": "Luger Set",
       "category": "sets",
-      "value": "125",
-      "rawValue": 125,
-      "range": "120 - 125",
+      "value": "122",
+      "rawValue": 122,
+      "range": "118 - 122",
       "stability": "Underpaid For",
       "demand": "1",
       "rarity": "2",
@@ -17632,8 +17632,8 @@
       "aliases": "Lug Set",
       "class": null,
       "imageKey": "mm2godlies/Luger",
-      "diff": "-2",
-      "pctChange": "-1.6%"
+      "diff": "-3",
+      "pctChange": "-2.4%"
     },
     {
       "name": "Marble Set",
@@ -17974,9 +17974,9 @@
     {
       "name": "Small Set (107)",
       "category": "sets",
-      "value": "1,290",
-      "rawValue": 1290,
-      "range": "1,240 - 1,340",
+      "value": "1,285",
+      "rawValue": 1285,
+      "range": "1,235 - 1,335",
       "stability": "Fluctuating",
       "demand": "4",
       "rarity": "4",
@@ -17984,8 +17984,8 @@
       "aliases": "SS107",
       "class": null,
       "imageKey": "mm2godlies/Yellow_Seer",
-      "diff": "+0",
-      "pctChange": "+0.0%"
+      "diff": "-5",
+      "pctChange": "-0.4%"
     },
     {
       "name": "Snakebite Set",
@@ -18006,8 +18006,8 @@
     {
       "name": "Snow Set",
       "category": "sets",
-      "value": "1,100",
-      "rawValue": 1100,
+      "value": "1,095",
+      "rawValue": 1095,
       "range": null,
       "stability": "Stable",
       "demand": "5",
@@ -18214,18 +18214,18 @@
     {
       "name": "Vampire's Set",
       "category": "sets",
-      "value": "3,350",
-      "rawValue": 3350,
-      "range": "3,350 - 3,400",
-      "stability": "Doing Well",
+      "value": "3,400",
+      "rawValue": 3400,
+      "range": "3,400 - 3,500",
+      "stability": "Overpaid For",
       "demand": "6",
       "rarity": "4",
       "origin": null,
       "aliases": "Vamp Set",
       "class": null,
       "imageKey": "mm2ancients/Vampires_Axe",
-      "diff": "+75",
-      "pctChange": "+2.3%"
+      "diff": "+50",
+      "pctChange": "+1.5%"
     },
     {
       "name": "Vintage Set",
@@ -18294,18 +18294,18 @@
     {
       "name": "Xeno Set",
       "category": "sets",
-      "value": "590",
-      "rawValue": 590,
-      "range": null,
-      "stability": "Stable",
+      "value": "600",
+      "rawValue": 600,
+      "range": "600 - 620",
+      "stability": "Doing Well",
       "demand": "5",
       "rarity": "3",
       "origin": null,
       "aliases": "N/A",
       "class": null,
       "imageKey": "mm2godlies/Xenoknife",
-      "diff": "+20",
-      "pctChange": "+3.5%"
+      "diff": "+10",
+      "pctChange": "+1.7%"
     },
     {
       "name": "Zombie Set",
